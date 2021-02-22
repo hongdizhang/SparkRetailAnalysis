@@ -1,2 +1,3 @@
 # SparkRetailAnalysis
-Analysis on the transactions of a UK based online retailer from December 2010 to December 2011 with Spark
+This Spark analysis is derived from the “Online Retail II” data set from  Kaggle, which was originally published on the UCI Machine Learning Repository. This data set contains all the transactions for a UK based and registered non-store online retailer from December 1st, 2010 to December 9th, 2011, whose name is not disclosed. The company mainly sells unique gift wares and many of its customers are wholesalers either in UK or abroad, although the vast majority of them are based in the UK. 
+Data set source: https://www.kaggle.com/jillwang87/online-retail-ii?select=online_retail_10_11.csv , https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
